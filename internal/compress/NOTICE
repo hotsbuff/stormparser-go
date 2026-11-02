@@ -1,0 +1,5 @@
+The ADPCM, Huffman, and PKWARE decoders in this directory are copied from
+https://github.com/ldmonster/go-stormlib at commit
+1fcc980853cf9ef22bb763a72bc367e62ad4105d.
+
+The copied files are licensed under Apache License 2.0; see LICENSE.
